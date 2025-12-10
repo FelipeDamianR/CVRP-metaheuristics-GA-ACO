@@ -108,7 +108,7 @@ An example file is included in the repository.
 
 1. Run `app_ACO.py`.  
 2. Use the upload button inside the interface.  
-3. Select your `.xlsx` or `.csv` file.  
+3. Select your `.xlsx`.  
 4. Adjust ACO parameters as desired.  
 5. View the generated routes, parameters, and results in real time.
 
