@@ -6,25 +6,6 @@ The work is based on the project documented in `Report_ACO_GA.pdf`.
 The original objective was to build a hybrid GA–ACO algorithm.  
 Due to time constraints, the hybrid version was not completed; instead, the project includes **independent implementations** and a full comparative study.
 
----
-
-# **Repository Structure**
-
-CVRP-metaheuristics-GA-ACO/
-│
-├── data/
-│   ├── example_.xlsx         # Example file for route coordinates
-│   └── .gitkeep
-│
-├── src/
-│   ├── app_ACO.py            # Interactive ACO application
-│   ├── GA.ipynb              # Genetic Algorithm implementation
-│   └── .gitkeep
-│
-├── Report_ACO_GA.pdf         # Project report
-└── README.md
-
----
 
 # **Problem Description**
 
